@@ -1,3 +1,3 @@
 This project is based on the Material Dashboard Angular template by Creative Tim: [https://github.com/creativetimofficial/material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2).
 
-The repository demonstrates how to extract, modularize, and reintegrate sub-components from an Angular application using the Crodox application architecture and workflow.
+This template can be imported into the Crodox application and provides the core functionality for extracting, modularizing, and reintegrating sub-components of an Angular application, such as the one referenced above, while showcasing the Crodox architecture and workflow.
